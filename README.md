@@ -22,6 +22,14 @@ I'm a Computer Science undergraduate specialising in Artificial Intelligence and
 - Working with Python, SQL, and machine learning workflows.
 - Interested in the intersection of intelligent systems and software engineering.
 
+### Areas of Interest
+
+- **Artificial Intelligence & Machine Learning:** Model integration, computer vision, and deep learning.
+- **Data Science:** Data preprocessing, exploratory data analysis, and NLP.
+- **Software Development:** Python applications, SQL databases, and practical problem-solving.
+
+Currently focused on strengthening my technical foundations and building practical, explainable projects.
+
 ## Technical Skills
 
 **Languages**
@@ -41,10 +49,12 @@ MySQL · Git · GitHub · VS Code · Jupyter Notebook
 | Project | Overview |
 |---|---|
 | [VisionLab](https://github.com/japjyotkaur/VisionLab) | Computer vision toolkit integrating detection, OCR, image enhancement, and pretrained models. |
+| [Traffic Management](https://github.com/japjyotkaur/AI-Traffic-Management-System) | Vehicle detection and traffic density analysis using computer vision. |
+| [Sentiment Analysis](https://github.com/japjyotkaur/customer-feedback-sentiment-analysis) | NLP-based text classification project. |
 | [Hospital Management System](https://github.com/japjyotkaur/hospital-management-system) | Python and MySQL application demonstrating database operations and CRUD functionality. |
 | [SRGAN Custom Training](https://github.com/japjyotkaur/SRGAN-Custom-training) | Deep learning project exploring image super-resolution. |
-| [Sentiment Analysis](https://github.com/japjyotkaur/customer-feedback-sentiment-analysis) | NLP-based text classification project. |
-| [Traffic Management](https://github.com/japjyotkaur/AI-Traffic-Management-System) | Vehicle detection and traffic density analysis using computer vision. |
+
+
 
 ## Currently Learning
 
