@@ -1,16 +1,63 @@
-## Hi there 👋
 
-<!--
-**japjyotkaur/japjyotkaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Japjyot Kaur Suri
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI/ML · Data Science · Software Development
+
+Building practical solutions through code, data, and intelligent systems.
+
+[GitHub](https://github.com/japjyotkaur) · [LinkedIn](https://www.linkedin.com/in/japjyot-kaur-suri/)
+
+</div>
+
+---
+
+## About Me
+
+I'm a Computer Science undergraduate specialising in Artificial Intelligence and Machine Learning.
+
+- Interested in building practical AI/ML applications.
+- Exploring computer vision, NLP, and data analysis.
+- Working with Python, SQL, and machine learning workflows.
+- Interested in the intersection of intelligent systems and software engineering.
+
+## Technical Skills
+
+**Languages**
+
+Python · SQL · C++ · Java · C
+
+**AI / ML & Data**
+
+Machine Learning · Computer Vision · NLP · Pandas · OpenCV · YOLO
+
+**Databases & Development**
+
+MySQL · Git · GitHub · VS Code · Jupyter Notebook
+
+## Featured Projects
+
+| Project | Overview |
+|---|---|
+| [VisionLab](https://github.com/japjyotkaur/VisionLab) | Computer vision toolkit integrating detection, OCR, image enhancement, and pretrained models. |
+| [Hospital Management System](https://github.com/japjyotkaur/hospital-management-system) | Python and MySQL application demonstrating database operations and CRUD functionality. |
+| [SRGAN Custom Training](https://github.com/japjyotkaur/SRGAN-Custom-training) | Deep learning project exploring image super-resolution. |
+| [Sentiment Analysis](https://github.com/japjyotkaur/customer-feedback-sentiment-analysis) | NLP-based text classification project. |
+| [Traffic Management](https://github.com/japjyotkaur/AI-Traffic-Management-System) | Vehicle detection and traffic density analysis using computer vision. |
+
+## Currently Learning
+
+- Machine Learning and Deep Learning
+- Data Analysis and Visualisation
+- Model evaluation and optimisation
+- Software development fundamentals
+
+---
+
+<div align="center">
+
+*Learning by building. Improving through experimentation.*
+
+</div>
+
