@@ -7,7 +7,7 @@
 
 Building practical solutions through code, data, and intelligent systems.
 
-[GitHub](https://github.com/japjyotkaur) · [LinkedIn](https://www.linkedin.com/in/japjyot-kaur-suri/)
+[LinkedIn](https://www.linkedin.com/in/japjyot-kaur-suri/)
 
 </div>
 
